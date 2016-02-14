@@ -1,2 +1,3 @@
 # hello-world
-initialize thegit
+
+Aloha! I am re-initializing my git for my classwork.
